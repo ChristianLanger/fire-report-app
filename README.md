@@ -2,11 +2,10 @@
 
 The Madagascar Fire Report App is a mobile web application for in-situ reports on wildfires in Madagascar.
 
-The app is a submission for the Copernicus Masters Challenge.
-
 ### Background
 
-Wildfires continue to present a major risk in many countries. It is estimated that nearly 400 million hectares of natural areas are burnt every year, causing loss of life, tremendous environmentaland economic damage, and contributing to the increase of carbon emissions worldwide.
+Wildfires continue to present a major risk in many countries. It is estimated that nearly 400 million hectares of natural areas are burnt every year, causing loss of life, tremendous environmental
+and economic damage, and contributing to the increase of carbon emissions worldwide.
 
 The Madagascar Fire Report App brings together existing GEOSS information sources at regional and national level to provide a comprehensive view and evaluation of fire patterns and effects at a global level.
 
